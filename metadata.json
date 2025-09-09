@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CBT Self-Care Journal",
+  "description": "A self-care application based on Cognitive Behavioral Therapy (CBT) principles. It allows users to log their thoughts, analyze patterns with AI assistance from Gemini, and track personal goals.",
+  "requestFramePermissions": []
+}
